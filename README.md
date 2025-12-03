@@ -102,7 +102,3 @@ If you'd like to contribute, improve heuristics, or add new platforms,
 feel free to fork the repository.
 
 ------------------------------------------------------------------------
-
-## 📄 License
-
-MIT License (or any license you prefer).
